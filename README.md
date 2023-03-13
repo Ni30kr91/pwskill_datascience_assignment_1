@@ -1,1 +1,1 @@
-# pwskill_datascience_assignment_1
+# pwskill_dataScience_assignment_1
